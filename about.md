@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Test
+title: About
 ---
 
 About Order of the Mimosa
