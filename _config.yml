@@ -2,7 +2,7 @@
 title:            Order of the Mimosa
 tagline:          'a project'
 description:      'This is a project that we are working on for project reasons.'
-url:              https://scottbot.github.io/privacy-workshop-scratch
+url:              https://scottbot.github.io/privacy-workshop
 baseurl:          ''
 paginate:         5
 
